@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exam1</string>
+    <string name="txt1">User Name</string>
+    <string name="txt2">Password</string>
+    <string name="hint1">Name</string>
+    <string name="hint2">Password</string>
+    <string name="btn1">SELECT ALL</string>
+    <string name="btn2">ADD</string>
+    <string name="btn3">SING IN</string>
+    <string name="btn4">DELETE</string>
+    <string name="btn5">UPDATE</string>
+</resources>
